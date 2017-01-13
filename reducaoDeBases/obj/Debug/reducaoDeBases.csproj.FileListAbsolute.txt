@@ -1,0 +1,9 @@
+c:\users\vitor.melon\documents\visual studio 2013\Projects\reducaoDeBases\reducaoDeBases\bin\Debug\reducaoDeBases.exe.config
+c:\users\vitor.melon\documents\visual studio 2013\Projects\reducaoDeBases\reducaoDeBases\bin\Debug\reducaoDeBases.exe
+c:\users\vitor.melon\documents\visual studio 2013\Projects\reducaoDeBases\reducaoDeBases\bin\Debug\reducaoDeBases.pdb
+c:\users\vitor.melon\documents\visual studio 2013\Projects\reducaoDeBases\reducaoDeBases\obj\Debug\reducaoDeBases.Form1.resources
+c:\users\vitor.melon\documents\visual studio 2013\Projects\reducaoDeBases\reducaoDeBases\obj\Debug\reducaoDeBases.Properties.Resources.resources
+c:\users\vitor.melon\documents\visual studio 2013\Projects\reducaoDeBases\reducaoDeBases\obj\Debug\reducaoDeBases.csproj.GenerateResource.Cache
+c:\users\vitor.melon\documents\visual studio 2013\Projects\reducaoDeBases\reducaoDeBases\obj\Debug\reducaoDeBases.exe
+c:\users\vitor.melon\documents\visual studio 2013\Projects\reducaoDeBases\reducaoDeBases\obj\Debug\reducaoDeBases.pdb
+c:\users\vitor.melon\documents\visual studio 2013\Projects\reducaoDeBases\reducaoDeBases\obj\Debug\reducaoDeBases.csprojResolveAssemblyReference.cache

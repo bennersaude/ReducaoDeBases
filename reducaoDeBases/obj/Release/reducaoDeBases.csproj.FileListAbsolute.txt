@@ -1,0 +1,9 @@
+c:\users\vitor.melon\documents\visual studio 2013\Projects\reducaoDeBases\reducaoDeBases\bin\Release\reducaoDeBases.exe.config
+c:\users\vitor.melon\documents\visual studio 2013\Projects\reducaoDeBases\reducaoDeBases\bin\Release\reducaoDeBases.exe
+c:\users\vitor.melon\documents\visual studio 2013\Projects\reducaoDeBases\reducaoDeBases\bin\Release\reducaoDeBases.pdb
+c:\users\vitor.melon\documents\visual studio 2013\Projects\reducaoDeBases\reducaoDeBases\obj\Release\reducaoDeBases.csprojResolveAssemblyReference.cache
+c:\users\vitor.melon\documents\visual studio 2013\Projects\reducaoDeBases\reducaoDeBases\obj\Release\reducaoDeBases.Form1.resources
+c:\users\vitor.melon\documents\visual studio 2013\Projects\reducaoDeBases\reducaoDeBases\obj\Release\reducaoDeBases.Properties.Resources.resources
+c:\users\vitor.melon\documents\visual studio 2013\Projects\reducaoDeBases\reducaoDeBases\obj\Release\reducaoDeBases.csproj.GenerateResource.Cache
+c:\users\vitor.melon\documents\visual studio 2013\Projects\reducaoDeBases\reducaoDeBases\obj\Release\reducaoDeBases.exe
+c:\users\vitor.melon\documents\visual studio 2013\Projects\reducaoDeBases\reducaoDeBases\obj\Release\reducaoDeBases.pdb
